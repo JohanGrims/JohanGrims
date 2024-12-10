@@ -3,9 +3,10 @@
 I'm a **curious student** exploring the universe of code, one line at a time. My journey in the tech world is fueled by passion and a sprinkle of creativity! I am currently attending a Waldorf school in Potsdam / Germany.
 
 ## 🛠 Tech Stack
-- **React**: Crafting dynamic and responsive UIs.
-- **Svelte**: Building sleek and efficient web applications.
+- **ReactJS & TS**: Crafting dynamic and responsive UIs.
+- **Svelte (Kit)**: Building sleek and efficient web applications.
 - **Python**: Solving problems with elegant and readable code.
+- **Openai**: Always on the latest news and building projects with ChatGPT.
 
 ## 🌟 Fun Facts
 - I love turning complex problems into simple solutions.
