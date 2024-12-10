@@ -6,7 +6,7 @@ I'm a **curious student** exploring the universe of code, one line at a time. My
 - **ReactJS & TS**: Crafting dynamic and responsive UIs.
 - **Svelte (Kit)**: Building sleek and efficient web applications.
 - **Python**: Solving problems with elegant and readable code.
-- **Openai**: Always on the latest news and building projects with ChatGPT.
+- **OpenAI**: Always on the latest news and building projects with ChatGPT.
 
 ## 🌟 Fun Facts
 - I love turning complex problems into simple solutions.
@@ -21,3 +21,7 @@ I'm a **curious student** exploring the universe of code, one line at a time. My
 - Designing intuitive user experiences.
 - Experimenting with new programming languages.
 - Engaging in tech communities and sharing knowledge.
+
+## 🦾 Public Projects
+- A chatbot imitating the founder of Waldorf, Rudolf Steiner: [ChatWithSteiner](https://chatwithsteiner.de/chat). Built in a school project using ChatGPT and ChromaDB.
+- A tool to manage project assignments for the school: [WaldorfWahlen](https://github.com/JohanGrims/waldorfwahlen).
