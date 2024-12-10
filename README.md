@@ -1,6 +1,5 @@
 # Hey there, I'm JohanGrims! 🎉
 
-## 🚀 About Me
 I'm a **curious student** exploring the universe of code, one line at a time. My journey in the tech world is fueled by passion and a sprinkle of creativity! I am currently attending a Waldorf school in Potsdam / Germany.
 
 ## 🛠 Tech Stack
