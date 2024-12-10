@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there, I'm JohanGrims! 🎉
 
-<!--
-**JohanGrims/JohanGrims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **curious student** exploring the universe of code, one line at a time. My journey in the tech world is fueled by passion and a sprinkle of creativity! I am currently attending a Waldorf school in Potsdam / Germany.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **React**: Crafting dynamic and responsive UIs.
+- **Svelte**: Building sleek and efficient web applications.
+- **Python**: Solving problems with elegant and readable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Facts
+- I love turning complex problems into simple solutions.
+- When I'm not coding, you can find me exploring the latest tech trends or diving into a good book.
+
+## 🎯 Goals
+- Mastering full-stack development.
+- Contributing to open-source projects.
+- Continuously learning and growing in the tech field.
+
+## 🎨 Hobbies
+- Designing intuitive user experiences.
+- Experimenting with new programming languages.
+- Engaging in tech communities and sharing knowledge.
