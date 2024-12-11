@@ -28,9 +28,9 @@ A web app for project selections at Waldorf School Potsdam, using React and Fire
 
 ### 📏 **Languages & Frameworks:**
 
-- **ReactJS & TS**
+- ReactJS & TS
 - Svelte
-- **Python**
+- Python
 
 ### 📊 **Tools & Platforms:**
 
