@@ -1,7 +1,4 @@
 **Student, Developer, and Creative Thinker**
-
----
-
 ## 🌟 About Me
 
 I am a versatile student with a passion for technology and creative projects. Whether it's 3D printing, web development, or learning new skills, I enjoy turning ideas into reality.
