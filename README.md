@@ -1,27 +1,48 @@
-# Hey there, I'm JohanGrims! 🎉
+**Student, Developer, and Creative Thinker**
 
-I'm a **curious student** exploring the universe of code, one line at a time. My journey in the tech world is fueled by passion and a sprinkle of creativity! I am currently attending a Waldorf school in Potsdam / Germany.
+---
 
-## 🛠 Tech Stack
-- **ReactJS & TS**: Crafting dynamic and responsive UIs.
-- **Svelte (Kit)**: Building sleek and efficient web applications.
-- **Python**: Solving problems with elegant and readable code.
-- **OpenAI**: Always on the latest news and building projects with ChatGPT.
+## 🌟 About Me
 
-## 🌟 Fun Facts
-- I love turning complex problems into simple solutions.
-- When I'm not coding, you can find me exploring the latest tech trends or diving into a good book.
+I am a versatile student with a passion for technology and creative projects. Whether it's 3D printing, web development, or learning new skills, I enjoy turning ideas into reality.
 
-## 🎯 Goals
-- Mastering full-stack development.
-- Contributing to open-source projects.
-- Continuously learning and growing in the tech field.
+**Interests:**
 
-## 🎨 Hobbies
-- Designing intuitive user experiences.
-- Experimenting with new programming languages.
-- Engaging in tech communities and sharing knowledge.
+- 📚 Education and Learning Projects
+- 🛡️ Open-Source Development
+- 🛠️ 3D Printing
+- 💬 Languages: German, English & French
 
-## 🦾 Public Projects
-- A chatbot imitating the founder of Waldorf, Rudolf Steiner: [ChatWithSteiner](https://chatwithsteiner.de/chat). Built in a school project using ChatGPT and ChromaDB.
-- A tool to manage project assignments for the school: [WaldorfWahlen](https://github.com/JohanGrims/waldorfwahlen).
+---
+
+## 📚 Current Projects
+
+### 💡 **ChatWithSteiner**
+
+A React application for discussions about Steiner education. [Visit the website](https://chatwithsteiner.de). 
+
+### 🗳️ **WaldorfWahlen**
+
+A web app for project selections at Waldorf School Potsdam, using React and Firebase. [View on GitHub](https://github.com/JohanGrims/WaldorfWahlen).
+
+---
+
+## 🛠️ Tech Stack
+
+### 📏 **Languages & Frameworks:**
+
+- **ReactJS & TS**
+- Svelte
+- **Python**
+
+### 📊 **Tools & Platforms:**
+
+- **VS Code**
+- **Git & GitHub**
+- **Firebase**
+- **AWS**
+- **Sanity**
+
+---
+
+**Let's create *something new* together! ✨**
