@@ -20,7 +20,7 @@ A React application for discussions about Steiner education. [Visit the website]
 
 ### 🗳️ **WaldorfWahlen**
 
-A web app for project selections at Waldorf School Potsdam, using React and Firebase. [View on GitHub](https://github.com/JohanGrims/WaldorfWahlen).
+A web app for project selections for a Waldorf School, using React and Firebase. [View on GitHub](https://github.com/JohanGrims/WaldorfWahlen).
 
 ---
 
