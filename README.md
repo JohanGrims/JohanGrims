@@ -18,6 +18,10 @@ I am a versatile student with a passion for technology and creative projects. Wh
 
 A React application for discussions about Steiner education. [Visit the website](https://chatwithsteiner.de). 
 
+### 📋 **Mobbing**
+
+A detailed and powerful questionaire about school climate and mobbing, including a standardized report pipeline. [View on GitHub](https://github.com/JohanGrims/Mobbing).
+
 ### 🗳️ **WaldorfWahlen**
 
 A web app for project selections for a Waldorf School, using React and Firebase. [View on GitHub](https://github.com/JohanGrims/WaldorfWahlen).
